@@ -80,7 +80,8 @@ I don’t just build features — I build systems that are testable, maintainabl
 
 - GitHub: github.com/diedericksyousha-collab
 - LinkedIn: www.linkedin.com/in/moegamat-yousha-diedericks-2305682a6
-- Email: diedericksyousha@gamil.com
+- Email: diedericksyousha@gmail.com
+- Current work Email: moegamat.diedericks@redacademy.co.za
 
 ---
 
