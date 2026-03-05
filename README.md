@@ -35,7 +35,7 @@ I design and maintain scalable automated test frameworks for modern web applicat
 
 # 🎮 Unity Game Development
 
-I develop 2D games using Unity and C# with a focus on gameplay systems and clean architecture.
+I try to develop 2D games using Unity and C# with a focus on gameplay systems and clean architecture.
 
 ## 🔹 What I Build
 - Player movement systems
@@ -53,26 +53,12 @@ I develop 2D games using Unity and C# with a focus on gameplay systems and clean
 - ScriptableObjects
 - Event-driven architecture
 - Prefabs & scene workflows
-- Basic shader & lighting understanding
 
 ## 🔹 Development Approach
 - Modular, reusable code
 - Clean component structure
 - Debug-friendly architecture
 - Performance-conscious design
-
----
-
-# 🔄 Where QA Meets Game Dev
-
-My biggest strength is combining:
-
-- Quality engineering mindset with retail softwares
-- Gameplay system design
-- Strong debugging skills
-- Automation thinking applied to game systems
-
-I don’t just build features — I build systems that are testable, maintainable, and scalable.
 
 ---
 
