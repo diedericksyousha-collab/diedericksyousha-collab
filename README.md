@@ -140,9 +140,6 @@ I build **2D gameplay systems in Unity using C#**.
 
 ### 📫 Contact
 
-GitHub  
-https://github.com/diedericksyousha-collab  
-
 LinkedIn  
 https://www.linkedin.com/in/moegamat-yousha-diedericks-2305682a6  
 
