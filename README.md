@@ -13,8 +13,8 @@
 &nbsp;&nbsp;
 ![](https://komarev.com/ghpvc/?username=diedericksyousha-collab&color=blueviolet)
 
-🧩 **Quality Engineer | Unity Developer**  
-🧪 Automation enthusiast | 🎮 Gameplay systems tinkerer  
+🧩 **Quality Engineer | Part-Time Unity Developer**  
+🧪 Automation enthusiast | 🎮 Gameplay systems builder  
 
 Building things with **code, testing frameworks, and game mechanics**.  
 Sometimes I build the system. Sometimes I break it on purpose to make it stronger.
@@ -42,7 +42,7 @@ End-to-End testing, automation frameworks, and CI pipeline integration.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-Building gameplay systems and experimenting with game architecture.
+trying to build gameplay systems and experimenting with game architecture.
 
 ---
 
