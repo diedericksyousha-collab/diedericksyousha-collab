@@ -62,19 +62,19 @@ I design and maintain **automated test suites for web applications** using Cypre
 
 **Things I Work On**
 
-- End-to-End (E2E) test automation
-- Regression testing
-- API testing & validation
-- Cross-browser testing
-- CI/CD integration
-- Test data validation
+  End-to-End (E2E) test automation
+  Regression testing
+  API testing & validation
+  Cross-browser testing
+  CI/CD integration
+  Test data validation
 
 **Focus**
 
-- Reducing flaky tests
-- Maintainable automation frameworks
-- Fast feedback in CI pipelines
-- Improving product quality
+  Reducing flaky tests
+  Maintainable automation frameworks
+  Fast feedback in CI pipelines
+  Improving product quality
 
 ---
 
@@ -84,20 +84,20 @@ I build **2D gameplay systems in Unity using C#**.
 
 **Systems I Like Building**
 
-- Player movement systems  
-- Physics-based mechanics  
-- UI systems (menus, pause, settings)  
-- Scene management  
-- High score systems  
-- Difficulty scaling  
-- Save / load systems  
+  Player movement systems  
+  Physics-based mechanics  
+  UI systems (menus, pause, settings)  
+  Scene management  
+  High score systems  
+  Difficulty scaling  
+  Save / load systems  
 
 **Development Style**
 
-- Modular systems
-- Reusable components
-- Clean architecture
-- Debug-friendly design
+  Modular systems
+  Reusable components
+  Clean architecture
+  Debug-friendly design
 
 ---
 
@@ -135,10 +135,10 @@ I build **2D gameplay systems in Unity using C#**.
 
 ### 🚀 Current Focus
 
-- Improving **Cypress automation architecture**
-- Building better **Unity gameplay systems**
-- Learning **TypeScript more deeply**
-- Gradually working toward **full-stack development**
+  Improving **Cypress automation architecture**
+  Building better **Unity gameplay systems**
+  Learning **TypeScript more deeply**
+  Gradually working toward **full-stack development**
 
 ---
 
