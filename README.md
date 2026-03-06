@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/diedericksyousha-collab">
-    <img src="https://img.shields.io/badge/Hello%2C%20there!-I'm%20Yousha-blueviolet?style=for-the-badge&logo=space-awesome&logoColor=white&labelColor=2D033B" alt="Hello Badge">
+    <img src="https://img.shields.io/badge/hey%2C%20there!-I'm%20Yousha-blueviolet?style=for-the-badge&logo=space-awesome&logoColor=white&labelColor=2D033B" alt="Hello Badge">
   </a>
 
 &nbsp;&nbsp;
