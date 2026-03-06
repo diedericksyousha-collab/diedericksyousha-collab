@@ -1,79 +1,164 @@
-# 👋 Hi, I'm Moegamat Yousha Diedericks
-
-Quality Engineer practicing in **Cypress automation** and **Unity game development**.
+<h3 align="center">
+<img width="1128" height="282" alt="image" src="https://github.com/user-attachments/assets/2862b8ce-deec-4683-8025-5d51edd6f8ea" />
+</h3>
 
 ---
 
-# 🧪 Quality Engineering (Cypress)
+<div align="center">
 
-I design and maintain scalable automated test frameworks for modern web applications.
+<div align="center">
+  <a href="https://github.com/diedericksyousha-collab">
+    <img src="https://img.shields.io/badge/Hello%2C%20there!-I'm%20Yousha-blueviolet?style=for-the-badge&logo=space-awesome&logoColor=white&labelColor=2D033B" alt="Hello Badge">
+  </a>
 
-## 🔹 What I Do
+&nbsp;&nbsp;
+![](https://komarev.com/ghpvc/?username=diedericksyousha-collab&color=blueviolet)
+
+🧩 **Quality Engineer | Unity Developer**  
+🧪 Automation enthusiast | 🎮 Gameplay systems tinkerer  
+
+Building things with **code, testing frameworks, and game mechanics**.  
+Sometimes I build the system. Sometimes I break it on purpose to make it stronger.
+
+</div>
+
+---
+
+### ⚙️ Current Stack
+
+<div align="center">
+
+**Quality Engineering 🧪**
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+End-to-End testing, automation frameworks, and CI pipeline integration.
+
+---
+
+**Game Development 🎮**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+Building gameplay systems and experimenting with game architecture.
+
+---
+
+**Databases (Basic Knowledge) 💾**
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+Using SQL for **basic data validation and testing checks**.
+
+</div>
+
+---
+
+### 🧪 Quality Engineering
+
+I design and maintain **automated test suites for web applications** using Cypress.
+
+**Things I Work On**
+
 - End-to-End (E2E) test automation
-- Regression test suite design
-- CI/CD pipeline integration
+- Regression testing
 - API testing & validation
-- Test data management
 - Cross-browser testing
-- Performance & reliability checks
+- CI/CD integration
+- Test data validation
 
-## 🔹 Tech Stack
-- Cypress
-- JavaScript / TypeScript
-- Git & GitHub
-- GitHub Actions / Azure DevOps
-- REST API testing
-- SQL (basic validation & data checks)
+**Focus**
 
-## 🔹 Focus
-- Clean, maintainable test architecture
 - Reducing flaky tests
+- Maintainable automation frameworks
 - Fast feedback in CI pipelines
-- Improving overall product quality
+- Improving product quality
 
 ---
 
-# 🎮 Unity Game Development
+### 🎮 Unity Development
 
-I try to develop 2D games using Unity and C# with a focus on gameplay systems and clean architecture.
+I build **2D gameplay systems in Unity using C#**.
 
-## 🔹 What I Build
-- Player movement systems
-- Physics-based mechanics
-- UI systems (menus, pause, settings)
-- Scene management
-- High score systems
-- Difficulty systems
-- Save/load systems
+**Systems I Like Building**
 
-## 🔹 Technical Skills
-- Unity Engine
-- C# scripting
-- Rigidbody2D / Physics systems
-- ScriptableObjects
-- Event-driven architecture
-- Prefabs & scene workflows
+- Player movement systems  
+- Physics-based mechanics  
+- UI systems (menus, pause, settings)  
+- Scene management  
+- High score systems  
+- Difficulty scaling  
+- Save / load systems  
 
-## 🔹 Development Approach
-- Modular, reusable code
-- Clean component structure
-- Debug-friendly architecture
-- Performance-conscious design
+**Development Style**
+
+- Modular systems
+- Reusable components
+- Clean architecture
+- Debug-friendly design
 
 ---
 
-# 📫 Contact
+### 🧰 Tools
 
-- GitHub: github.com/diedericksyousha-collab
-- LinkedIn: www.linkedin.com/in/moegamat-yousha-diedericks-2305682a6
-- Email: diedericksyousha@gmail.com
-- Current work Email: moegamat.diedericks@redacademy.co.za
+<div align="center">
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2550&pause=710&center=true&vCenter=true&width=570&lines=Listing+my+IDE+and+GitHub+is...;basically+saying:...;I+use+a+computer+and+the+internet.;BUT...;It+looks+pretty+at+least%2C+right%3F" />
+
+![Joke](https://img.shields.io/badge/Yes-I_use_a_computer-16a34a?style=for-the-badge)
+
+</div>
 
 ---
 
-# 🚀 Current Focus
+### 🔎 Overview
 
-- Advanced Cypress architecture
-- Game system design patterns in Unity
-- Performance optimization
-- CI/CD best practices
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=diedericksyousha-collab&theme=dark" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diedericksyousha-collab&theme=react-dark&custom_title=Contribution%20Graph&bg_color=1a1b27&color=14D9FF&line=14D9FF&point=f5f7fa&area=true&hide_border=true" />
+
+</div>
+
+---
+
+### 🚀 Current Focus
+
+- Improving **Cypress automation architecture**
+- Building better **Unity gameplay systems**
+- Learning **TypeScript more deeply**
+- Gradually working toward **full-stack development**
+
+---
+
+### 📫 Contact
+
+GitHub  
+https://github.com/diedericksyousha-collab  
+
+LinkedIn  
+https://www.linkedin.com/in/moegamat-yousha-diedericks-2305682a6  
+
+Email  
+diedericksyousha@gmail.com  
+
+---
+
+### That's it 👋🏼
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="180"/><br>
+  <i>“Keep committing. The code gods are watching.”</i>
+</p>
