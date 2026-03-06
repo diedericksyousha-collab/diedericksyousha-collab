@@ -158,6 +158,7 @@ diedericksyousha@gmail.com
 ### That's it 👋🏼
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZrdnZ4cGduZWR5eXE5MzA4cWFobWpkcG82djN5bmhzcHFna2RyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" height="180"/><br>
-  <i>“Keep committing. The code gods are watching.”</i>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZrdnZ4cGduZWR5eXE5MzA4cWFobWpkcG82djN5bmhzcHFna2RyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="260"/>
+  <br><br>
+  <i>“Keep it up:)”</i>
 </p>
