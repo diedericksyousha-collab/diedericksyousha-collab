@@ -1,5 +1,4 @@
 <h3 align="center">
-<img width="1128" height="282" alt="image" src="https://github.com/user-attachments/assets/2862b8ce-deec-4683-8025-5d51edd6f8ea" />
 </h3>
 
 ---
